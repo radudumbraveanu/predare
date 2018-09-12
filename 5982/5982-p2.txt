@@ -1,0 +1,15 @@
+
+# 5982, Prelegere 2: Pagini JSP (Java Server Pages)
+1. Exemplu de JSP
+2. Sintaxa JSP
+	* comentarii vizibile, comentarii ascunse, directive, scriptleturi etc
+3. Domenii de vizibilitate
+	* aplicatie, sesiune, cerere, pagina
+4. Obiecte implicite
+	* `request`, `response`, `pageContext` etc 
+5. Arhitectura JSP
+	* translatia, compilarea, executia
+6. Avantaje JSP vs. Sevleturi
+7. MVC
+ 
+> Written with [StackEdit](https://stackedit.io/).
