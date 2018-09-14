@@ -1,5 +1,5 @@
 
-# Obiectivele si structura cursului ''Tehnologii Java �n proiectarea aplica?iilor Web''
+# Obiectivele si structura cursului ''Tehnologii Java în proiectarea aplicațiilor Web''
 ## Obiective
 ## Structura
 ## Bibliografie
